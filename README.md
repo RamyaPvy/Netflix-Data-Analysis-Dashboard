@@ -1,3 +1,8 @@
+## Technologies used
+- Tableau
+
+
+
 Netflix Data Analysis Dashboard
 This repository showcases a comprehensive data visualization project analyzing Netflix's content trends, genre distribution, and global engagement using Tableau. The project involves:
 
