@@ -1,6 +1,7 @@
 ## Technologies used
 - Tableau
 
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/a46631d2-80d5-46fa-9ec7-b4bc3eef46ef" />
 
 
 Netflix Data Analysis Dashboard
