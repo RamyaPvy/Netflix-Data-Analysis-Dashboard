@@ -1,0 +1,4 @@
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
+*.py linguist-detectable=false
+*.twbx linguist-detectable=true
