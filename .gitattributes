@@ -2,4 +2,6 @@
 *.json linguist-detectable=false
 *.py linguist-detectable=false
 *.sql linguist-detectable=false
+*.twb linguist-language=XML
 *.twbx linguist-detectable=true
+
